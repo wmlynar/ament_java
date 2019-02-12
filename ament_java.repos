@@ -2,23 +2,28 @@ repositories:
   ament/ament_cmake:
     type: git
     url: https://github.com/ament/ament_cmake.git
-    version: 0.5.1
+#    version: 0.5.1
+    version: 409ee0403d8d1eba0dc5a58cf52dcec5eadc91d2
   ament/ament_index:
     type: git
     url: https://github.com/ament/ament_index.git
-    version: 0.5.1
+#    version: 0.5.1
+    version: 2ae14036e2c4f9db6fce022a47e300f71c47ea64
   ament/ament_lint:
     type: git
     url: https://github.com/ament/ament_lint.git
-    version: 0.5.2
+#    version: 0.5.2
+    version: 50f9bb46d6350b1709c76c3a819dd52b64d062c1
   ament/ament_package:
     type: git
     url: https://github.com/ament/ament_package.git
-    version: 0.5.2
+#    version: 0.5.2
+    version: d449c8b76410a1382a3c7358369e286ecd9a9108
   ament/ament_tools:
     type: git
     url: https://github.com/esteve/ament_tools.git
-    version: win32-platform
+#    version: win32-platform
+    version: 59fab0435faa4dafc2492b84e55b0faaba20f379
   ament/googletest:
     type: git
     url: https://github.com/ament/googletest.git
@@ -26,11 +31,13 @@ repositories:
   ament/osrf_pycommon:
     type: git
     url: https://github.com/osrf/osrf_pycommon.git
-    version: 0.1.5
+#    version: 0.1.5
+    version: 7aa7f39b02073a25c97e82fece72dc0d74ecc4db
   ament/uncrustify:
     type: git
     url: https://github.com/ament/uncrustify.git
-    version: 0.66.1
+#    version: 0.66.1
+    version: 9751be25d0240b0efb871576edde5e5b5b70b37b
   ament_java/ament_java:
     type: git
     url: https://github.com/esteve/ament_java.git
